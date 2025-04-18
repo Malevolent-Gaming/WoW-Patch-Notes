@@ -1,5 +1,4 @@
 # Patch notes for WoW Wrath of Malevolence
-![wrathofmalevolence](https://github.com/user-attachments/assets/4c4996da-f707-4102-8104-50ace15432a9)
 
 
 # Update Notes 0.2.4
