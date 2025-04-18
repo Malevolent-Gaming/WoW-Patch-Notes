@@ -3,8 +3,6 @@
   <img src="https://github.com/user-attachments/assets/8e1518e2-bba6-4c80-a0d7-168779be3291" />
 </p!
 
-
-
   
 # Update Notes 0.2.4
 ## Gear Progression Update!
