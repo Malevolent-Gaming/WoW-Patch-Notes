@@ -1,6 +1,7 @@
 # Patch notes for WoW Wrath of Malevolence
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19efab2d-5f6e-41dc-83fd-83a46e62fd76" alt="wowlogo" />
+</p>
 # Update Notes 0.2.4
 ## Gear Progression Update!
 ### Emblem Changes
