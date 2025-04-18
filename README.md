@@ -1,7 +1,9 @@
 # Patch notes for WoW Wrath of Malevolence
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19efab2d-5f6e-41dc-83fd-83a46e62fd76" alt="wowlogo" />
-</p
+  <img src="" />
+</p!
+[wrathofmalevolence](https://github.com/user-attachments/assets/8e1518e2-bba6-4c80-a0d7-168779be3291)
+
 
   
 # Update Notes 0.2.4
