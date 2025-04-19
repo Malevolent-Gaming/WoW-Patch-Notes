@@ -8,7 +8,7 @@
 <h1 align="center">Update 0.2.4</h1>
 
 
-### Emblem Changes
+## Emblem Changes
 To make gear progression more... progressive. We've simplified the Emblem system a bit. 
 Emblems of Heroism drop off normal LK dungeon Bosses. Used to purchase Tier 7 Chest, Gloves, Helm and Legs
 Removed Emblems of Valor, and changed the Valor Merchant to use Emblems of Heroism. Costs are slightly higher due to the increased gear level.
@@ -53,7 +53,7 @@ These changes effect ALL dungeons, so earlier starting and mid level dungeons ma
 
 <h1 align="center">Update 0.2.2 </h1>
 
-# Heirloom Changes:
+## Heirloom Changes:
 Heirlooms prices have been converted to gold!
 Tobias Grey can be found in each faction area in Dalaran.
 ## New Heirloom Prices:
@@ -123,7 +123,7 @@ Full reward list will be determined and posted soon.
 
 <h1 align="center">Update 0.1.2 </h1>
 
-## New Vendors have arrived!
+# New Vendors have arrived!
 ## New Class Glyph Vendors
 New Vendors can be found by each Class Trainer in Stormwind and Orgrimmar
 -These CHEAP prices are temporary. I will be greatly increasing the cost of each glyph at a later date, so that it doesnt hurt the inscription trade skill
@@ -152,7 +152,7 @@ Please refer to ⁠Dungeon & Raid Auto-Scale System﻿ to submit your dungeon fe
 
 <h1 align="center">Update 0.1.0 </h1>
 
-Modules are live!
+# Modules are live!
 ## Current Modules
 ### Transmog 
  A custom way to transmog from the* Transmog NPC* located in the Barber Shop in the Capital Cities. 
