@@ -32,8 +32,7 @@ Stone shards are still obtained through various quest rewards throughout the wor
 ## Raid Scaling
 Raids have been scaled to 5 players for 10mans and 10 players for 25mans. These changes will need to be tested but I plan on setting up some possible raid nights once we get enough characters to raid level gear. 
 We will start with Naxx and work our way up over time. I will send out a notification in the ⁠🔎wow-lfg channel and try to plan a weekend event soon.
-## Bug Fixes
-- Fixed shit
+
 
 <h1 align="center">Hotfix 0.2.3.1</h1>
  
