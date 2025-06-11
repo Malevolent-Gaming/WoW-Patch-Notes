@@ -12,8 +12,8 @@
 To make gear progression more... progressive. We've simplified the Emblem system a bit. 
 Emblems of Heroism drop off normal LK dungeon Bosses. Used to purchase Tier 7 Chest, Gloves, Helm and Legs
 Removed Emblems of Valor, and changed the Valor Merchant to use Emblems of Heroism. Costs are slightly higher due to the increased gear level.
- Emblems of Conquest now drop from all Heroic Bosses. Used to purchase Tier 8 Chest, Gloves, Helm and Legs
- Emblems of Triumph to be rewarded for Heroic Dungeon LFG. Still drops in Raids (Ulduar, Naxx, EoE, OS, VoA). Used to purchase Tier 9
+Emblems of Conquest now drop from all Heroic Bosses. Used to purchase Tier 8 Chest, Gloves, Helm and Legs
+Emblems of Triumph to be rewarded for Heroic Dungeon LFG. Still drops in Raids (Ulduar, Naxx, EoE, OS, VoA). Used to purchase Tier 9
 Emblem of Frost to be obtained through ICC 10/25 modes and Last boss of VoA and used to purchase Tier 10 sets.
 ## LFG Changes
 Normal LK Dungeon LFG Queue now gives you 2 Emblems of Conquest
